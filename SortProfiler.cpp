@@ -2,7 +2,7 @@
  * This program measures the approximate runtimes it takes for various 
  * sorting algorithms to sort arrays of random integers and floating
  * point values.
- * @author William Duncan, YOURNAME
+ * @author Muntrail Jones
  * <pre>
  * File: SortProfiler.cpp
  * Date: 10-9-2024
