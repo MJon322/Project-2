@@ -1,7 +1,7 @@
 /**
  * Contains prototypes for functions provided in the public interface
  * for various sorting algorithms
- * @author William Duncan, YOUR NAME
+ * @author Muntrail Jones
  * <pre>
  * File: SortUtil.h
  * Date: 10-7-2024
