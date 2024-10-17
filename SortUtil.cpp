@@ -1,7 +1,7 @@
 /**
  * implementation of the functions for various sorting algorithms
  * along with auxilliary functions (for internal use).
- * @author Duncan, YOUR NAME
+ * @author Muntrail Jones
  * <pre>
  * File: SortUtil.cpp
  * Date: 10-7-2024
